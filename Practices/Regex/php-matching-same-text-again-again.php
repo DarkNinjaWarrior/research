@@ -1,0 +1,1 @@
+$Regex_Pattern = '([a-z]{1})(w)(s)(W)(d)(D)([A-Z]{1})([a-zA-Z]{1})([aeiouAEIOU]{1})(S)12345678910'; Do not delete ''. Replace __________ with your regex.

@@ -1,0 +1,1 @@
+Regex_Pattern = '^\d{2,}[a-z]{0,}[A-Z]{0,}$'
