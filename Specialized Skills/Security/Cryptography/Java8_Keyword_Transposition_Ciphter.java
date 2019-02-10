@@ -1,8 +1,5 @@
 import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Solution {
 
@@ -77,7 +74,6 @@ public class Solution {
         for (int i=0; i<cLen; i++){for (int j=0; j<rLen; j++){mapStr += newMatrix[i][j];}}
         return mapStr;
     }
-    
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner scan = new Scanner(System.in);
@@ -102,3 +98,4 @@ public class Solution {
         scan.close();
     }
 }
+
